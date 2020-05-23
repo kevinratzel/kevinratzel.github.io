@@ -1,6 +1,6 @@
 img {
-  width: 9em;
-  height: 9em;
+  max-width: 10em;
+  max-height: 10em;
   border-radius: 50%;
   float: left;
   margin: 5px;

@@ -1,8 +1,6 @@
 img {
   border-radius: 50%;
   float: left;
-  width: 10em;
-  height: 10em;
 }
 
 h1 {
@@ -11,4 +9,9 @@ h1 {
 
 p, h2, h3, ul {
   font: 16px Roboto, Sans-Serif;
+}
+
+.profile {
+  width: 100em;
+  height: 10em;
 }

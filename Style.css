@@ -3,3 +3,7 @@ img {
   width: 20em;
   height: 20em;
 }
+
+p {
+  font: 12pt Roboto, Sans-Serif;
+}

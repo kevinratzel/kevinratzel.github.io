@@ -3,7 +3,7 @@ img {
   height: 10em;
   border-radius: 50%;
   float: left;
-  padding: 5px;
+  margin: 5px;
 }
 
 h1 {
@@ -15,7 +15,7 @@ p, h2, h3, ul {
 }
 
 .profile {
-  width: 100em;
+  width: 50em;
   height: 10em;
   border: 2px solid black;
   border-radius: 5px;

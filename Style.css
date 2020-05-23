@@ -17,4 +17,6 @@ p, h2, h3, ul {
 .profile {
   width: 100em;
   height: 10em;
+  border: 2px solid black;
+  border-radius: 5px;
 }

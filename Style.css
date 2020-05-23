@@ -9,6 +9,6 @@ h1 {
   font: 24px Futura, Sans-Serif; 
 }
 
-p {
+p, h2, h3, ul {
   font: 16px Roboto, Sans-Serif;
 }

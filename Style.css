@@ -4,6 +4,10 @@ img {
   height: 10em;
 }
 
+h1 {
+  font: 24px Futura, Sans-Serif; 
+}
+
 p {
   font: 16px Roboto, Sans-Serif;
 }

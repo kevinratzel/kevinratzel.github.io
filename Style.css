@@ -1,9 +1,9 @@
 img {
   border-radius: 50%;
-  width: 20em;
-  height: 20em;
+  width: 10em;
+  height: 10em;
 }
 
 p {
-  font: 12px Roboto, Sans-Serif;
+  font: 16px Roboto, Sans-Serif;
 }

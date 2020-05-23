@@ -1,5 +1,6 @@
 img {
   border-radius: 50%;
+  display: inline-block;
   width: 10em;
   height: 10em;
 }

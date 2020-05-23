@@ -1,6 +1,6 @@
 img {
-  width: 8em;
-  height: 8em;
+  width: 9em;
+  height: 9em;
   border-radius: 50%;
   float: left;
   margin: 5px;
@@ -17,6 +17,6 @@ p, h2, h3, ul {
 .profile {
   width: 50em;
   height: 10em;
-  border: 2px solid black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 5px;
 }

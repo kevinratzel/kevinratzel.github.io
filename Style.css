@@ -18,6 +18,7 @@ p, h2, h3, ul {
   width: 50em;
   height: 10em;
   border-radius: 5px;
+  margin: auto;
 }
 
 .profile:hover {

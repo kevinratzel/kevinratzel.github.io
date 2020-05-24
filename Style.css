@@ -7,9 +7,10 @@ p, h3, ul {
 }
 
 h2 {
-  font: 20px Roboto, Sans-Serif;
+  font: 12px Roboto, Sans-Serif;
   line-height: 50%;
   text-transform: uppercase;
+  opacity: 0.75;
 }  
 
 .profile {

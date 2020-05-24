@@ -16,9 +16,10 @@ h2 {
 .profile {
   width: 50em;
   height: 10em;
-  border-radius: 10px;
+  border-radius: 20px;
   padding: 2.5em;
   margin: auto;
+  border: 1px solid DarkGray;
 }
 
 .profile:hover {

@@ -2,9 +2,15 @@ h1 {
   font: 24px Futura, Sans-Serif; 
 }
 
-p, h2, h3, ul {
+p, h3, ul {
   font: 16px Roboto, Sans-Serif;
 }
+
+h2 {
+  font: 20px Roboto, Sans-Serif;
+  line-height: 50%;
+  text-transform: uppercase;
+}  
 
 .profile {
   width: 50em;

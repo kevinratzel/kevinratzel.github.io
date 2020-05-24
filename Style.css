@@ -29,7 +29,10 @@ p, h2, h3, ul {
 .linkedin, .github {
   width: 2em;
   height: 2em;
-  float: right;
   margin: 5px;
   opacity: 0.5;
+}
+
+.social {
+  float: right;
 }

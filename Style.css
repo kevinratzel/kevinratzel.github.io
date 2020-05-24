@@ -37,8 +37,8 @@ h2 {
 
 .linkedin:hover, .github:hover {
   opacity: 1;
-  fill: #2867B2;
-  transition-property: opacity, fill;
+  background-color: #2867B2;
+  transition-property: opacity, background-color;
   transition-duration: 0.5s;
 }  
 

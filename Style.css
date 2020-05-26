@@ -23,7 +23,7 @@ ul {
 }
 
 ul li:before {
-	content: "&#187;";
+	content: "&#187";
 	position: absolute;
 	left: 0;
 }

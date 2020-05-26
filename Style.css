@@ -1,1 +1,29 @@
+h1, h2, h3, h4, p {
+  font-family: "Open Sans", sans-serif;
+}
 
+h2, h3 {
+  opacity: 0.75;
+}
+
+h3 {
+  font-size: 1em;
+  text-transform: uppercase;
+}
+
+li {
+  font-family: "Roboto", sans-serif;
+}
+
+ul {
+	position: relative;
+	list-style: none;
+	margin-left: 0;
+	padding-left: 1.2em;
+}
+
+ul li:before {
+	content: "&#187;";
+	position: absolute;
+	left: 0;
+}

@@ -1,5 +1,5 @@
 html {
-  line-height: normal;
+  line-height: 50%;
   padding-left: 10%;
 }
 
@@ -21,7 +21,7 @@ li {
 }
 
 ul li:before {
-  content: "\2023";
+  content: "\2023  ";
 }
 
 ul {

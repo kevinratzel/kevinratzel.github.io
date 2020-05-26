@@ -1,5 +1,6 @@
 html {
   line-height: normal;
+  padding-left: 10%;
 }
 
 h1, h2, h3, h4, p {
@@ -19,6 +20,10 @@ li {
   font-family: "Roboto", sans-serif;
 }
 
+ul li:before {
+  content: "\2023";
+}
+
 ul {
-  list-style-type: "→";
+  list-style: none;
 }

@@ -35,3 +35,23 @@ ul li:before {
 ul {
   list-style: none;
 }
+
+a:link {
+  text-decoration: none;
+  color: #3498db;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #34495e;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #2980b9;
+  
+}
+
+a:active {
+  text-decoration: none;
+}

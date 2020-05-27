@@ -6,6 +6,7 @@ html {
 h1, h2, h3, h4, p {
   font-family: "Open Sans", sans-serif;
   font-weight: normal;
+  line-height: 50%;
 }
 
 h2, h3 {
@@ -23,11 +24,10 @@ p {
 
 li {
   font-family: "Roboto", sans-serif;
-  line-height: normal;
 }
 
 ul li:before {
-  content: "\2023  ";
+  content: "\2023    ";
 }
 
 ul {

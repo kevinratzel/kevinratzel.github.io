@@ -17,6 +17,10 @@ h3 {
   text-transform: uppercase;
 }
 
+p {
+  font-variant: small-caps;
+}
+
 li {
   font-family: "Roboto", sans-serif;
   line-height: normal;

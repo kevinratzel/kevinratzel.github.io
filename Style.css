@@ -52,3 +52,12 @@ a:hover {
 a:active {
   text-decoration: none;
 }
+
+.icons {
+  height: 50px;
+  width: 50px;
+}
+.img_container {
+  float: left;
+  margin-right: 1%;
+}

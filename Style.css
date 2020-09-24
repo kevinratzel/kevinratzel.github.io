@@ -70,3 +70,8 @@ img:hover {
   border-radius: 5px;
   background-color: orange;
 }
+
+.verge {
+  width: 100%;
+  border: none;
+}

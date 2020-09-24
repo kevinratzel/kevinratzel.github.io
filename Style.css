@@ -67,10 +67,9 @@ img:hover {
 }
 
 .Reason {
-  border-radius: 5px;
+  border-left-style: 5 px solid #FE6C2F;
 }
 
-.verge {
-  width: 100%;
-  border: none;
+.Verge {
+  border-left-style: 5 px solid #E1127A;
 }

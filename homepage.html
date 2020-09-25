@@ -9,13 +9,18 @@
         <img src="duckduckgo.svg" alt="DuckDuckGo" class="SearchLogo">
     </div>
     <br>
-    <script type="text/javascript">
-      function getDate(){
-        var cDate=new Date();
-          var refresh=1000;
-        document.getElementById("Date").innerHTML = cDate.toString();
-      }
-    </script>
+    <script type="text/javascript"> 
+function display_c(){
+var refresh=1000; // Refresh rate in milli seconds
+mytime=setTimeout('display_ct()',refresh)
+}
+
+function display_ct() {
+var x = new Date()
+document.getElementById('ct').innerHTML = x;
+display_c();
+ }
+</script>
   </head>
 <body onLoad='getDate()' style="text-align: center">
     <h1>Current Date and Time:</h1>

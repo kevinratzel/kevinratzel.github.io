@@ -76,7 +76,9 @@ img:hover {
 }
 
 .Verge {
-  border-left-style: 5 px solid #E1127A;
+  border-left-style: solid;
+  border-left-width: 5px;
+  border-left-color: #E1127A;
 }
 
 .SearchLogo {

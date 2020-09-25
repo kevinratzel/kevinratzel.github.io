@@ -16,10 +16,14 @@ h2, h3, p {
   opacity: 0.5;
 }
 
-h3 {
+h3, #ct {
   font-size: 0.75em;
   opacity: 0.5;
   text-transform: uppercase;
+}
+
+#ct {
+  margin: auto;
 }
 
 li {

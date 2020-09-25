@@ -72,11 +72,13 @@ img:hover {
 }
 
 .Reason {
-  border-left-style: 5 px solid #FE6C2F;
+  border-left-style: solid;
+  border-left-width: 5px;
+  border-left-color: #FE6C2F;
+  padding-left: 1%;
 }
 
 .Verge {
-  height: 5em;
   border-left-style: solid;
   border-left-width: 5px;
   border-left-color: #E1127A;

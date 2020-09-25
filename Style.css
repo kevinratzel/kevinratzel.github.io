@@ -80,3 +80,7 @@ img:hover {
   padding-right: 2%;
   opacity: 0.5;
 }
+
+.SearchLogo:hover {
+  fill: #DD5833;
+}

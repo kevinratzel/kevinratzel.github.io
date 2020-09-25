@@ -77,13 +77,14 @@ img:hover {
 .SearchLogo {
   width: 5em;
   height: 5em;
-  padding-right: 2%;
+  padding: 2%;
+  opacity: 1;
 }
 
 .Search {
   width: 50%;
   height: 7em;
-  background-color: #F6F7F7;
+  background: rgb(0,0,0,0.5);
   border-radius: 1em;
   margin: auto;
 }

@@ -22,7 +22,7 @@ h3, #ct {
   text-transform: uppercase;
 }
 
-#ct {
+.Time {
   text-align: center;
   margin: auto;
 }

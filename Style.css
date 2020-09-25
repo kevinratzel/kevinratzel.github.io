@@ -6,7 +6,7 @@ html {
   letter-spacing: 1px;
 }
 
-h1, h2, h3, h4, p, .ct {
+h1, h2, h3, h4, p, #ct {
   font-family: "Open Sans", sans-serif;
   font-weight: normal;
   line-height: 50%;

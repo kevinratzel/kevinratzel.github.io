@@ -73,3 +73,10 @@ img:hover {
 .Verge {
   border-left-style: 5 px solid #E1127A;
 }
+
+.SearchLogo {
+  width: 5em;
+  height: 5em;
+  padding-right: 2%;
+  opacity: 0.5;
+}
